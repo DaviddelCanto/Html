@@ -1,4 +1,4 @@
 .env
 node_modules
 *.extensiones que no queremos que se suban
-README.md1
+README.md1   para renombrar md
