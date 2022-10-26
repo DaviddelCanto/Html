@@ -23,3 +23,4 @@ Para retroceder en el tiempo buscar el ID con el comando anterior y:
 Si nos hemos equivocado y queremos volver buscar el ID con:
 ´git reflog´ + ´git reset --hard ID´
 
+
