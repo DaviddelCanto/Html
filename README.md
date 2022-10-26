@@ -31,22 +31,22 @@ Si nos hemos equivocado y queremos volver buscar el ID con:
 
 Pero puede dar problemas con el repo de GitHUB si hay commits no actualizados entre local y gitHUB
 Para ello se elimine un commit en particular 
-´git revert ID ´
+`git revert ID `
 
 
 Mejor usar branch
 
-´git branch 01-rama´ para crear una rama
+`git branch 01-rama` para crear una rama
 
 Merge 
 
 Nos posicionamos en la rama que va a recibir la rama o main
-´git merge NombreRAMA´
+`git merge NombreRAMA`
 
 Si hay conflictos nos muestra los conflictos
 
 
 TAGS para proporcionar versiones:
 
-´git tag nombreVersion -m "#version"´
-´git push --tag´
+`git tag nombreVersion -m "#version"`
+`git push --tag`
