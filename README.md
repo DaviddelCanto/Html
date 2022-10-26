@@ -23,3 +23,12 @@ Para retroceder en el tiempo buscar el ID con el comando anterior y:
 Si nos hemos equivocado y queremos volver buscar el ID con:
 ´git reflog´ + ´git reset --hard ID´
 
+
+Pero puede dar problemas con el repo de GitHUB si hay commits no actualizados entre local y gitHUB
+Para ello se elimine un commit en particular 
+´git revert ID ´
+
+
+Mejor usar branch
+
+´git branch 01-rama´
