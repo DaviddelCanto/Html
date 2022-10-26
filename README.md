@@ -31,4 +31,6 @@ Para ello se elimine un commit en particular
 
 Mejor usar branch
 
-´git branch 01-rama´
+´git branch 01-rama´ para crear una rama
+
+
