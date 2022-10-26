@@ -33,4 +33,7 @@ Mejor usar branch
 
 ´git branch 01-rama´ para crear una rama
 
+Merge 
 
+Nos posicionamos en la rama que va a recibir la rama o main
+´git merge NombreRAMA´
