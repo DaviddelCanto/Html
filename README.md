@@ -37,3 +37,5 @@ Merge
 
 Nos posicionamos en la rama que va a recibir la rama o main
 ´git merge NombreRAMA´
+
+Si hay conflictos nos muestra los conflictos
