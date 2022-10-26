@@ -5,7 +5,7 @@
 
 
 Proceso de agregar cambios
-git add .    
+'git add .'    
 git commit - "mensaje"
 git push
 
